@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(math.jpg);
+  background-size: cover;
+}
+.button{
+  padding:20px;
+  margin:-9px -3px;
+  border:2px solid black;
+  border-radius:20px;
+  cursor:pointer;
+  width: 60px;
+  border-color:rgb(0, 0, 0);
+  color:rgb(0, 0, 0);
+}
+.row{
+  margin:8px 0px;
+}
+.row input{
+  font-size:18px;
+  margin:0;
+  padding:10px 10px;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius:10px;
+}
+.text-center{
+  color: white;
+}
